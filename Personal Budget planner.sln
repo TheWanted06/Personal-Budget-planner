@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal Budget planner", "Personal Budget planner.csproj", "{62B6EB18-3FD7-4F2E-9E22-C4EB12678110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finances", "..\Libraries\Finances\Finances.csproj", "{7765FBF2-914F-4FDB-ADD5-6BEAD147CB48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B6EB18-3FD7-4F2E-9E22-C4EB12678110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B6EB18-3FD7-4F2E-9E22-C4EB12678110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B6EB18-3FD7-4F2E-9E22-C4EB12678110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B6EB18-3FD7-4F2E-9E22-C4EB12678110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7765FBF2-914F-4FDB-ADD5-6BEAD147CB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7765FBF2-914F-4FDB-ADD5-6BEAD147CB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7765FBF2-914F-4FDB-ADD5-6BEAD147CB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7765FBF2-914F-4FDB-ADD5-6BEAD147CB48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3430BBE5-36D3-4F49-853D-DE18C53DDD4E}
+	EndGlobalSection
+EndGlobal
